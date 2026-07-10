@@ -180,5 +180,3 @@ Same policy as A1/A2:
 - Individual assignment. Discuss general concepts with peers; all code and analysis must be your own.
 - AI tools are permitted for specific steps (debugging, syntax help, understanding a library) with full disclosure of the tool and exact prompt used, marked with `#BEGIN`/`#END` comments as in A1.
 - AI tools are **not** permitted to solve entire tasks, write your interpretation/writeup responses, or generate your cleaning-decision justifications for you.
-
-*Note: deadline is a placeholder pending your confirmation.*
